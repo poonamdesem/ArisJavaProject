@@ -12,5 +12,6 @@
 	<classpathentry kind="lib" path="lib/jgrapht-io-1.1.0-uber.jar"/>
 	<classpathentry kind="lib" path="lib/jgrapht-io-1.1.0.jar"/>
 	<classpathentry kind="lib" path="lib/jgraphx-2.0.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jdt.astview_1.1.8.201108081127.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
